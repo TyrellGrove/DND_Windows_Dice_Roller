@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnD_Dice_Roller", "WindowsFormsApp1\DnD_Dice_Roller.csproj", "{492DE9ED-523D-419A-B24D-6BCFA6006EC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{492DE9ED-523D-419A-B24D-6BCFA6006EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492DE9ED-523D-419A-B24D-6BCFA6006EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492DE9ED-523D-419A-B24D-6BCFA6006EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492DE9ED-523D-419A-B24D-6BCFA6006EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A9ABCE0-00B7-40D4-A298-1E473B2A32D0}
+	EndGlobalSection
+EndGlobal
